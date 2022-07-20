@@ -162,3 +162,10 @@ let checkData=arrManipulation(arr,function(items){
 })
 
 console.log(checkData)
+
+
+
+console.log(man);
+console.log(woman);
+let man=6;
+var woman=5;
